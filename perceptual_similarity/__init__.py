@@ -1,1 +1,1 @@
-from models import PerceptualLoss
+from perceptual_similarity.models import PerceptualLoss
